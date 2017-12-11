@@ -1,0 +1,19 @@
+V0.1:
+
+Camera Live status:
+	Checks the Active State of each camera and update 
+Visibility Check Status:
+        Checks Blurness
+	Checks Full R:G:B colors [Monolitic colors]
+	Checks cracks or Damaged State
+
+V0.2:
+
+V0.1 + Bug Correction
+
+Motion Detection Status:
+	Detect Gradient motion [Neglect motion of wind and consistantly moving objects]
+People Count Status:
+	Detect Total people in Dinnning Area [Includes Childeren, Men, Women...]
+
+
